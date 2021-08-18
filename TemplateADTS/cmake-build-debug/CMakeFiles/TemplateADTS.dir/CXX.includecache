@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/daniel/CLionProjects/TemplateADTS/ADTs/List.h
+iostream
+-
+
+/home/daniel/CLionProjects/TemplateADTS/ADTs/Queue.h
+
+/home/daniel/CLionProjects/TemplateADTS/ADTs/Stack.h
+cstring
+-
+iostream
+-
+
+/home/daniel/CLionProjects/TemplateADTS/main.cpp
+iostream
+-
+ADTs/Stack.h
+/home/daniel/CLionProjects/TemplateADTS/ADTs/Stack.h
+ADTs/Queue.h
+/home/daniel/CLionProjects/TemplateADTS/ADTs/Queue.h
+ADTs/List.h
+/home/daniel/CLionProjects/TemplateADTS/ADTs/List.h
+

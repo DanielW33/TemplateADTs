@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TemplateADTS.dir/main.cpp.o  -o TemplateADTS 
